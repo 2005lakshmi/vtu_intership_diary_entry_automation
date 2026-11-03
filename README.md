@@ -15,9 +15,26 @@ https://github.com/user-attachments/assets/8dbd7513-8f11-47d9-b2f0-20d865c29526
 // ==========================================
 // ⚙️ DIARY DATA
 // ==========================================
+
+
+
+
 const diaryData = [
     /* >>> REPLACE THIS COMMENT WITH THE STUDENT'S ENTRIES <<< */
 ];
+
+/* example :
+const diaryData = [
+    { date: "2026-09-03", summary: "Worked on Strings as part of the Java full-stack training. Reviewed and practised the following concepts: String class; String creation; String pool; Immutability; String methods. Applied the concepts through the assigned practical activity: String manipulation programs.", hours: "6", links: "https://github.com/2005lakshmi", learnings: "Understood the key concepts covered in Strings: String class; String creation; String pool; Immutability; String methods. Improved the ability to apply these concepts in Java/full-stack development and to explain the purpose of the related syntax, components, or workflow. Reviewed the practical result and identified areas requiring further practice." },
+    { date: "2026-09-04", summary: "Worked on Strings as part of the Java full-stack training. Reviewed and practised the following concepts: StringBuilder and StringBuffer; Mutable vs immutable strings; Performance considerations. Applied the concepts through the assigned practical activity: String processing application.", hours: "6", links: "https://github.com/2005lakshmi", learnings: "Understood the key concepts covered in Strings: StringBuilder and StringBuffer; Mutable vs immutable strings; Performance considerations. Improved the ability to apply these concepts in Java/full-stack development and to explain the purpose of the related syntax, components, or workflow. Reviewed the practical result and identified areas requiring further practice." },
+    { date: "2026-09-05", summary: "Worked on Collections as part of the Java full-stack training. Reviewed and practised the following concepts: Collection Framework overview; List; ArrayList; LinkedList; Vector. Applied the concepts through the assigned practical activity: List-based exercises.", hours: "6", links: "https://github.com/2005lakshmi", learnings: "Understood the key concepts covered in Collections: Collection Framework overview; List; ArrayList; LinkedList; Vector. Improved the ability to apply these concepts in Java/full-stack development and to explain the purpose of the related syntax, components, or workflow. Reviewed the practical result and identified areas requiring further practice." },
+    { date: "2026-09-07", summary: "Worked on Collections as part of the Java full-stack training. Reviewed and practised the following concepts: Set; HashSet; LinkedHashSet; TreeSet; Set operations. Applied the concepts through the assigned practical activity: Unique-data applications.", hours: "6", links: "https://github.com/2005lakshmi", learnings: "Understood the key concepts covered in Collections: Set; HashSet; LinkedHashSet; TreeSet; Set operations. Improved the ability to apply these concepts in Java/full-stack development and to explain the purpose of the related syntax, components, or workflow. Reviewed the practical result and identified areas requiring further practice." },
+    { date: "2026-09-08", summary: "Worked on Collections as part of the Java full-stack training. Reviewed and practised the following concepts: Map; HashMap; LinkedHashMap; TreeMap; Hashtable. Applied the concepts through the assigned practical activity: Key-value applications.", hours: "6", links: "https://github.com/2005lakshmi", learnings: "Understood the key concepts covered in Collections: Map; HashMap; LinkedHashMap; TreeMap; Hashtable. Improved the ability to apply these concepts in Java/full-stack development and to explain the purpose of the related syntax, components, or workflow. Reviewed the practical result and identified areas requiring further practice." },
+    { date: "2026-09-09", summary: "Worked on Generics as part of the Java full-stack training. Reviewed and practised the following concepts: Generics; Generic classes; Generic methods; Wildcards; Type safety. Applied the concepts through the assigned practical activity: Generic programming exercises.", hours: "6", links: "https://github.com/2005lakshmi", learnings: "Understood the key concepts covered in Generics: Generics; Generic classes; Generic methods; Wildcards; Type safety. Improved the ability to apply these concepts in Java/full-stack development and to explain the purpose of the related syntax, components, or workflow. Reviewed the practical result and identified areas requiring further practice." }]
+
+*/
+
+
 
 let currentIndex = -1;
 
